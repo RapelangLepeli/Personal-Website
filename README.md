@@ -1,4 +1,4 @@
-#Personal-Website
+Personal-Website
 
 My Personal Website. 
 This is still in development and has not been published publicly to the internet.
